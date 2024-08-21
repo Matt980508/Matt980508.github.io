@@ -1,13 +1,9 @@
-title: "Il mio blog"
-email: your-email@example.com
-description: >- 
-  Questo è un blog personale creato con Jekyll e GitHub Pages.
-baseurl: "" # il baseurl dovrebbe essere vuoto per GitHub Pages senza sottocartella
-url: "https://Matt980508.github.io" # cambia con l'URL del tuo sito
-twitter_username: your_username
-github_username: Matt980508
-
 theme: minima
+title: "Il mio blog"
+description: "Un blog personale"
 
-# Build settings
-markdown: kramdown
+# Impostazioni del menu di navigazione
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
