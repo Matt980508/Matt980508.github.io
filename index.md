@@ -1,8 +1,13 @@
 ---
 layout: default
-title: "Benvenuti nel Diario di Matteo"
+title: "Home"
 ---
 
-# Benvenuti
+# Benvenuto nel mio Blog!
 
-Questo è il mio diario personale dove condivido pensieri e riflessioni quotidiane. Segui i miei aggiornamenti per nuove storie e riflessioni.
+{% for post in site.posts %}
+## [{{ post.title }}]({{ post.url }})
+*Pubblicato il {{ post.date | date: "%B %d, %Y" }}*
+
+{{ post.excerpt }}
+{% endfor %}
