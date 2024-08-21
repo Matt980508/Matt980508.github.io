@@ -1,4 +1,4 @@
-theme: minima
+theme: minima  # o il tema che stai usando
 title: "Il mio blog"
 description: "Un blog personale"
 
