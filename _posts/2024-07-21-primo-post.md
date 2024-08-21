@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il mio primo post"
-date: 2024-08-21 12:00:00 +0000
+date: 2024-07-21 12:00:00 +0000
 categories: diario
 ---
 
