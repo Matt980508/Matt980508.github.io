@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il Potere delle Abitudini"
-date: 2024-08-23 09:00:00 +0000
+date: 2024-07-23 09:00:00 +0000
 categories: diario
 ---
 
