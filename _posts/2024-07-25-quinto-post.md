@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L'Importanza del Riposo"
-date: 2024-08-25 08:00:00 +0000
+date: 2024-07-25 08:00:00 +0000
 categories: diario
 ---
 
