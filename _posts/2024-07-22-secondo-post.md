@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Riflessioni sulla Creatività"
-date: 2024-08-22 10:00:00 +0000
+date: 2024-07-22 10:00:00 +0000
 categories: diario
 ---
 
