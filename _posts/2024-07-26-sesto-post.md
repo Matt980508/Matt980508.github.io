@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Magia della Lettura"
-date: 2024-08-26 14:00:00 +0000
+date: 2024-07-26 14:00:00 +0000
 categories: diario
 ---
 
