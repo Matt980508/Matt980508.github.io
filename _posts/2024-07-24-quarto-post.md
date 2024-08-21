@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viaggio nei Ricordi"
-date: 2024-08-24 15:00:00 +0000
+date: 2024-07-24 15:00:00 +0000
 categories: diario
 ---
 
